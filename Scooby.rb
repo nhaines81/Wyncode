@@ -7,4 +7,3 @@ pets.each do |i|
     end
 end
 #second update
-

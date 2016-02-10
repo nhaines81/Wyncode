@@ -5,6 +5,6 @@ pets.each do |i|
     else
         puts "I’m still pretty special too!"
     end
- end
+end
   # update
 
